@@ -1,0 +1,13 @@
+.head{
+    text-align: center;
+}
+
+.mg3{
+    margin: auto;
+}
+
+.fx{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
